@@ -25,7 +25,7 @@ class Register extends React.Component /*({onRouteChange}) => */{
 /*		if(email ==='' || password==='' || name===''){
 			return;
 		}*/
-		fetch('http://localhost:3000/register', {
+		fetch('https://calm-island-32009.herokuapp.com/register', {
 			method:'post',
 			headers:{'Content-Type':'application/json'},
 			body: JSON.stringify({
