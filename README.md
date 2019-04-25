@@ -2,4 +2,4 @@
 
 Final project in Zero To Mastery course. 
 The app lets the user enter a image url and by using the clarifai api draws a box around a face in the image.  
-[face-recognition-frontend](https://github.com/nadav-r/face-recognition-app).
+[See the backend here](https://github.com/nadav-r/face-recognition-app).
